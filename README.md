@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Web Designer || Developer ||  from Bangladesh**
+
+Email Me 👉 ✉️ **rabbihossain187@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** WordPress Theme DEvelopment
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** rabbihossain187@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
