@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Rabbi Hossain
-**A passionate Web Designer || Developer ||  from Bangladesh**
+💫 Hi 👋, I'm Rabbi Hossain
+A Passionate Web Designer & Developer from Bangladesh
 
 Email Me 👉 ✉️ **rabbihossain187@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
