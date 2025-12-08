@@ -49,7 +49,7 @@ I’m a frontend-focused Web Designer & WordPress Theme Developer who enjoys bui
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RHS-Rabbi)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=RHS-Rabbi&theme=default&no-frame=false&margin-w=4)
 
 
 
