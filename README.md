@@ -83,7 +83,7 @@ I'm available for freelance projects and collaborations.
 Feel free to reach out!
 
 ---
-[![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=react-light)](https://github.com/RHS-Rabbi)
+[![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=github-light)](https://github.com/RHS-Rabbi)
 ---
 
 ### 👁‍🗨 Profile Views  
