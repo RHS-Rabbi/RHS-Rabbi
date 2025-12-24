@@ -81,7 +81,7 @@ I’m a frontend-focused Web Designer & WordPress Theme Developer who enjoys bui
 ---
 
 ---
-[![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=react-dark)](https://github.com/RHS-Rabbi)
+[![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=react-light)](https://github.com/RHS-Rabbi)
 ---
 
 ---
