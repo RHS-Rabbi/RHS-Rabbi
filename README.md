@@ -79,11 +79,7 @@ I’m a frontend-focused Web Designer & WordPress Theme Developer who enjoys bui
 - Bug Fixing & Maintenance
 
 ---
-
----
 [![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=react-light)](https://github.com/RHS-Rabbi)
----
-
 ---
 
 ### 👁‍🗨 Profile Views  
