@@ -70,8 +70,6 @@ I’m a frontend-focused Web Designer & WordPress Theme Developer who enjoys bui
 
 ---
 
----
-
 ## 💼 Services I Offer
 - Custom WordPress Theme Development
 - WordPress Site Customization
