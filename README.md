@@ -72,6 +72,20 @@ I’m a frontend-focused Web Designer & WordPress Theme Developer who enjoys bui
 
 ---
 
+## 💼 Services I Offer
+- Custom WordPress Theme Development
+- WordPress Site Customization
+- Responsive Web Design
+- Bug Fixing & Maintenance
+
+---
+
+---
+[![Rabbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHS-Rabbi&theme=react-dark)](https://github.com/RHS-Rabbi)
+---
+
+---
+
 ### 👁‍🗨 Profile Views  
 ![Profile views](https://komarev.com/ghpvc/?username=RHS-Rabbi&color=blue)
 
